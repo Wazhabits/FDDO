@@ -14,4 +14,5 @@ Cécile    PARISOT
 Hélène    GAILLARD
 Lisa      LEPAGE
 Benoit    BENARD
+Hugo      MARTINEZ
 ___________________________________________________________
